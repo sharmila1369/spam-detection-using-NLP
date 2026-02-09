@@ -101,6 +101,9 @@ Spam-Classifier/
 
 ---
 
+
+---
+
 ## 🔷 **📌 How to Run the Project**
 
 ### 1️⃣ Clone the Repository
@@ -151,6 +154,6 @@ GitHub: https://github.com/sharmila1369
 LinkedIn: https://www.linkedin.com/in/sharmilambika-venna/
 
 ---
-
+---
 
 
