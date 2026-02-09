@@ -311,37 +311,29 @@ Open browser:
 
 http://127.0.0.1:5000/
 
+# 📊 Results
 
-🔷 Results
-
-Successfully classifies messages as Spam or Not Spam
-
-Provides fast and reliable predictions
-
-User-friendly interface
-
-🔷 Future Enhancements
-
-Train with a larger dataset
-
-Implement Deep Learning models (LSTM, BERT)
-
-Add multilingual spam detection
-
-Deploy on AWS / Heroku / Render
-
-Add API support
-
-🔷 Author
-
-Sharmilambika Venna
-B.Tech – CSE (AI & Data Science)
-
-GitHub: https://github.com/sharmila1369
-
-LinkedIn: https://www.linkedin.com/in/sharmilambika-venna/
-
+- Successfully classifies messages as **Spam or Not Spam**  
+- Provides fast and reliable predictions  
+- User-friendly interface  
 
 ---
 
+# 🚀 Future Enhancements
+
+- Train with a larger dataset  
+- Implement Deep Learning models (LSTM, BERT)  
+- Add multilingual spam detection  
+- Deploy on AWS / Heroku / Render  
+- Add API support  
+
+---
+
+# ✍️ Author
+
+**Sharmilambika Venna**  
+B.Tech – CSE (AI & Data Science)  
+
+GitHub: https://github.com/sharmila1369  
+LinkedIn: https://www.linkedin.com/in/sharmilambika-venna/
 
